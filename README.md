@@ -1,4 +1,4 @@
-![Screenshot 2024-10-11 165842](https://github.com/user-attachments/assets/2b91e80c-3f47-4d68-b14c-b327b6e206aa)# Face Recognition Attendance System
+# Face Recognition Attendance System
 # Attendance Management System based on Face Recognition using Python
 # Code Requirements
 Opencv(pip install opencv-python)
