@@ -51,10 +51,6 @@ Ensure the following libraries and modules are installed before running the proj
   ```
 - Once entered, the program will open a window to capture **100 frames** of your face. After this step, registration is complete. 🎉
 
-Example interface during registration:
-![Screenshot 2024-10-11 165842](https://github.com/user-attachments/assets/7e7cbd7f-d65a-4549-898b-aa04e92b8cf5)  <br>
-
-
 ### Step 3: Testing and Marking Attendance 📆
 
 - Run `test.py` to start the face recognition process.
@@ -64,8 +60,6 @@ Example interface during registration:
 - When a registered face is detected, press **`o`** to mark attendance.
 
 - Press **`q`** to exit the program. 🚪
-
-![Screenshot 2024-10-11 170042](https://github.com/user-attachments/assets/eb8ccf5a-39b4-4459-8ec4-7ee0685d86d4) <br> 
 
 ---
 
