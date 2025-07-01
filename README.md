@@ -77,7 +77,6 @@ Ensure the following libraries and modules are installed before running the proj
 
 - Make sure to have good lighting during face registration and attendance marking for accurate results.
 - Use a high-quality webcam for better face detection.
-- Read the **README.md** file in the GitHub repository for further troubleshooting tips. 🔧
 
 ---
 
