@@ -67,7 +67,7 @@ Ensure the following libraries and modules are installed before running the proj
 
 1. **User-Friendly GUI**: Easy-to-use graphical interface using Tkinter.
 2. **Automated Attendance**: Recognizes faces in real-time and records attendance.
-3. **Accurate Face Recognition**: Uses state-of-the-art machine learning algorithms. 🔬
+3. **Accurate Face Recognition**: Uses state-of-the-art machine learning algorithms. 
 4. **Data Management**: Attendance records are saved in a structured format using Pandas.
 5. **High Performance**: Efficient and scalable for small to medium-sized organizations.
 
