@@ -103,15 +103,3 @@ Ensure the following libraries and modules are installed before running the proj
 - Personalized marketing
 
 ---
-
-## How the Modules Work Together
-
-1. **OpenCV**: Handles camera input and real-time face detection.
-2. **Face Recognition Library**: Performs face detection, feature extraction, and matching.
-3. **Pandas**: Records and manages attendance data efficiently.
-4. **Tkinter**: Provides a graphical interface for user interaction.
-5. **Pillow**: Processes and saves captured face images.
-6. **Scikit-learn**: Optionally used for advanced data processing or classification tasks.
-
----
-
