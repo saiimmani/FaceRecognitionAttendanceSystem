@@ -95,11 +95,3 @@ Ensure the following libraries and modules are installed before running the proj
 1. **Face Detection**: Locating and detecting faces in an image or video stream. This is achieved using libraries like OpenCV or the `face_recognition` module.
 2. **Feature Extraction**: Identifying key facial landmarks, such as eyes, nose, and mouth, to create a unique facial signature.
 3. **Face Matching**: Comparing the extracted features against a database of registered faces to identify a match.
-
-**Applications**:
-- Security systems
-- Attendance management
-- Mobile device authentication
-- Personalized marketing
-
----
